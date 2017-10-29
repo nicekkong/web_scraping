@@ -1,0 +1,24 @@
+Name,Windows,macOS,Linux,BSD,Unix,OpenVMS
+Acme,Yes,Yes,Yes,Yes,Yes,No
+AkelPad,Yes,No,No,No,No,No
+Alphatk,Yes,Yes,Yes,Yes,Yes,Yes
+Aquamacs,No,Yes,No,No,No,No
+Atom,Yes,Yes,Yes,No,No,No
+Arachnophilia,Yes,Yes,Yes,Yes,Yes,No
+BBEdit,No,Yes,No,No,No,No
+Bluefish,Yes,Yes,Yes,Yes,Yes,Yes
+Brackets,Yes,Yes,Yes,No,No,No
+Coda,No,Yes,No,No,No,No
+ConTEXT,Yes,No,No,No,No,No
+Crimson Editor,Yes,No,No,No,No,No
+ed,Yes,Yes,Yes,Yes,Yes,Yes
+EditPlus,Yes,No,No,No,No,No
+Editra,Yes,Yes,Yes,?,?,?
+EmEditor,Yes,No,No,No,No,No
+epsilon,Yes,Yes[2],Yes,Yes,Yes,No
+Geany,Yes,Yes,Yes,Yes,Yes,Yes
+gedit,Yes,Yes[3],Yes,Yes,Yes,No
+GNU Emacs,Yes,Yes,Yes,Yes,Yes,Yes
+Gobby,Yes,Yes,Yes,Yes,Yes,No
+JED,Yes,Yes,Yes,Yes,Yes,Yes
+jEdit,Yes,Yes,Yes,Yes,Yes,No
